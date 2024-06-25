@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a Comic Book Website.
-- 🌱 I’m always learnins something new.
-- 👯 I’m a React.js developer with knowledge in GraphQL.
-- 💬 I'm hosting my projects( The ones I did while studying GraphQL) on Render. 
+- 🔭 I’m currently working on an Ecommerce Website.
+- 🌱 I’m always learning something new.
+- 👯 I’m a fullstack Web developer and rated QA tester on UTest. I have done projects with React JS, Express, Mongo DB, GraphQL, Mpesa API.
+- 💬 I'm hosting my projects on Render. 
 - 📫 How to reach me: taylorhelene09@gmail.com
 - ⚡ Fun fact: I love anime.
 -  My portfolio :  [Portfolio](https://taylorhelene.github.io/Chemtai-s_portfolio/)
