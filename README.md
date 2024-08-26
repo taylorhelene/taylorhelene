@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an E-commerce Website.
 - 🌱 I’m always learning something new.
-- 👯 I’m a fullstack Web developer and rated QA tester on UTest. I have done projects with React JS, Express, Mongo DB, GraphQL, Mpesa API.
+- 👯 I’m a fullstack Web developer and QA tester on UTest. I have done projects with React JS, Express, Mongo DB, GraphQL, Mpesa API.
 - 💬 I'm hosting my projects on Render. 
 - 📫 How to reach me: taylorhelene09@gmail.com
 - ⚡ Fun fact: I love anime.
