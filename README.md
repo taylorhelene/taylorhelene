@@ -12,7 +12,7 @@
 -  [Apollo GraphQL project-server on render](https://server-80vk.onrender.com)
 -  [Apollo GraphQL project-frontend on render](https://trial-azpj.onrender.com)
 -  [Comics Fanpage Site](https://comic-xyqz.onrender.com)
--  [Comics Fanpage Server](https://mmm-pr5e.onrender.com)
+-  [Cognitive Teletherapy](https://teletherapy.onrender.com)
 -  [Petsitting With Analytics](https://hostingpetsitting.onrender.com)
 [![@tay's Holopin board](https://holopin.me/tay)](https://holopin.io/@tay)
 
