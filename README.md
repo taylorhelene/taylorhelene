@@ -5,10 +5,10 @@
 - 👯 I’m a fullstack Web developer and QA tester on UTest. I have done projects with React JS, Express, Mongo DB, GraphQL, Mpesa API.
 - 💬 I'm hosting my projects on Render. 
 - 📫 How to reach me: taylorhelene09@gmail.com
+- 📖 Here is my medium for some simple projects: [medium](https://medium.com/@taylorhelene09)
 - ⚡ Fun fact: I love anime.
 -  My portfolio :  [Portfolio](https://taylorhelene.github.io/Chemtai-s_portfolio/)
 -  Hosted projects ->>>
--  [Apollo GraphQL project-server on render](https://server-80vk.onrender.com)
 -  [Apollo GraphQL project-frontend on render](https://trial-azpj.onrender.com)
 -  [Comics Fanpage Site](https://comic-xyqz.onrender.com)
 -  [Cognitive Teletherapy](https://teletherapy.onrender.com)
