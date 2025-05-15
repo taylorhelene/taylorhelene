@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m always learning something new.
+- 🌱 I’m always learning something new. I am currently preparing for a proctored exam.
 - 👯 I’m a fullstack Web developer, UI/UX designer and QA tester on UTest. I have done projects with React JS, Express, Mongo DB, GraphQL and Azure products.
 - 💬 I'm hosting my projects on Render. 
 - 📫 How to reach me: taylorhelene09@gmail.com
