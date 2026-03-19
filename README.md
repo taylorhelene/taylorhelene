@@ -4,7 +4,7 @@
 - 🌱 I’m always learning something new. I am currently learning IOT.
 - 👯 I’m a fullstack developer, UI/UX designer and QA tester on UTest. I have done projects with React JS, Express, Mongo DB, GraphQL , Microsoft Fabric, Azure products and some Bash scripts here and there.
 - 💬 I'm hosting my projects on Render. 
-- 📫 How to reach me: taylorhelene09@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/chemtai-taylor-765698188
 - 📖 Here is my medium for some simple projects: [medium](https://medium.com/@taylorhelene09)
 - ⚡ Fun fact: I love anime.
 - My hackathon certifications: [link](https://drive.google.com/drive/folders/1qv6r4JzAgfULbcLiQCYSTzXmRbVatMJy)
